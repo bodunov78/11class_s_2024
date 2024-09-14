@@ -1,0 +1,15 @@
+[submodule "Mihailov_Igor"]
+	path = ege
+	url = https://github.com/IgorMihailov1303/ege
+[submodule "Михайлов_Игорь"]
+	path = Михайлов_Игорь
+	url = https://github.com/IgorMihailov1303/ege
+[submodule "Ревская_Мария"]
+	path = Ревская_Мария
+	url = https://github.com/huizbaka/ege
+[submodule "Хоменко_Анастасия"]
+	path = Хоменко_Анастасия
+	url = https://github.com/HomaSapiens2007/ege
+[submodule "Дудоров_Глеб"]
+	path = Дудоров_Глеб
+	url = https://github.com/Udnek/Ege
