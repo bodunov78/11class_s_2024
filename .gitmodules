@@ -31,9 +31,6 @@
 [submodule "_EGE"]
 	path = _EGE
 	url = https://github.com/bodunov78/ege
-[submodule "_Demo"]
-	path = _Demo
-	url = https://github.com/bodunov78/demo_repo
 [submodule "Кеелус_Милена"]
 	path = Кеелус_Милена
 	url = https://bodunov78@github.com/MKeelus/ege
