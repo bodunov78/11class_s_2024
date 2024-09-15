@@ -13,3 +13,27 @@
 [submodule "Дудоров_Глеб"]
 	path = Дудоров_Глеб
 	url = https://github.com/Udnek/Ege
+[submodule "Шуйгина_Александра"]
+	path = Шуйгина_Александра
+	url = https://github.com/shasyas/ege
+[submodule "Кабанов_Роман"]
+	path = Кабанов_Роман
+	url = https://github.com/0Ocky0/ege
+[submodule "Шилова_Софья"]
+	path = Шилова_Софья
+	url = https://github.com/HaRumiCoder/ege
+[submodule "Куликов_Денис"]
+	path = Куликов_Денис
+	url = https://github.com/DannyKu2007/ege
+[submodule "Борисенко_Михаил"]
+	path = Борисенко_Михаил
+	url = https://github.com/FIREpresent/EGE
+[submodule "_EGE"]
+	path = _EGE
+	url = https://github.com/bodunov78/ege
+[submodule "_Demo"]
+	path = _Demo
+	url = https://github.com/bodunov78/demo_repo
+[submodule "Кеелус_Милена"]
+	path = Кеелус_Милена
+	url = https://bodunov78@github.com/MKeelus/ege
